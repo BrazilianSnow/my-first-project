@@ -6,6 +6,7 @@ Este é meu primeiro projeto de análise de dados. Escolhi uma base de dados sob
 - [**Database**:](https://drive.google.com/file/d/1_u147_HxUlZws2tS2lKk9t7kmdR3VMzE/view?usp=sharing)
 - [**Apresentação no Power BI**:](https://drive.google.com/file/d/1BmYv10GlwfzttLLL6GDGFpzWiwbf87at/view?usp=drive_link)
 - **Ferramentas Utilizadas**: Power BI, Excel, Kaggle e Canva
+> Desculpe estar no drive, não tenho conta corporativa
 
 ## Etapas do Projeto
 
@@ -28,9 +29,10 @@ Para confirmar a precisão dos insights, realizei cálculos manualmente e valide
 # First Data Analysis Project
 This is my first data analysis project. I chose a dataset about the data analysis job market, a relevant topic due to the growing demand in this field and the insights it provides.
 
-- **Database**: [Link to the dataset](https://drive.google.com/file/d/1_u147_HxUlZws2tS2lKk9t7kmdR3VMzE/view?usp=sharing)
-- **Power BI Presentation**: (Link to the presentation)
+- [**Database**:](https://drive.google.com/file/d/1_u147_HxUlZws2tS2lKk9t7kmdR3VMzE/view?usp=sharing)
+- [**Apresentação no Power BI**](https://drive.google.com/file/d/1BmYv10GlwfzttLLL6GDGFpzWiwbf87at/view?usp=drive_link)
 - **Tools Used**: Power BI, Excel, Kaggle, and Canva
+> Sorry it's on Google Drive, I don't have a corporate account.
 
 ### Project Steps
 
