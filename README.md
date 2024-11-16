@@ -17,7 +17,7 @@ Este é meu primeiro projeto de análise de dados. O tema escolhido foi o mercad
 A base de dados foi obtida na plataforma [Kaggle](https://www.kaggle.com/), conhecida pela sua confiabilidade e pela grande variedade de datasets disponíveis. Escolhi essa fonte por sua alta qualidade e diversidade.
 
 ### 2. Limpeza de Dados
-O processo de limpeza envolveu a remoção de valores vazios utilizando filtros no Power BI. Durante essa etapa, não foram identificados outliers significativos.
+O processo de limpeza envolveu a remoção de valores vazios utilizando filtros no Power BI. Durante essa etapa não foram identificados outliers significativos.
 
 ### 3. Geração de Insights e Visualizações
 Com os dados limpos, comecei a gerar insights e criar visualizações. Para isso, criei um background para o projeto e preparei um relatório visual utilizando o Power BI.
